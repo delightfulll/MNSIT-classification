@@ -28,7 +28,6 @@ frontend/.vercel
 frontend/*.tsbuildinfo
 frontend/next-env.d.ts
 
-#python
 # === Python Backend ===
 .venv/
 __pycache__/
