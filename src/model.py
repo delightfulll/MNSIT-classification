@@ -48,8 +48,3 @@ class Network(nn.Module):
 #initialize the network
 model = Network()
 print(model)
-
-
-device = 'cuda' if torch.cuda.is_available() else 'cpu'
-model.to(device)
-print('using', device, 'for training')
