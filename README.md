@@ -33,8 +33,8 @@ A full-stack deep learning application that classifies handwritten digits (0–9
 ### Frontend
 | Tool | Purpose |
 |---|---|
-| **Next.js 16** | React framework |
-| **React 19** | UI library |
+| **Next.js** | React framework |
+| **React** | UI library |
 | **Tailwind CSS v4** | Styling |
 | **TypeScript** | Type safety |
 
