@@ -96,7 +96,6 @@ pip install -r requirements.txt
 python -m api.app
 ```
 
-The API runs at `http://localhost:8000`.
 
 ### 3. Start the frontend
 
@@ -105,8 +104,6 @@ cd frontend
 npm install
 npm run dev
 ```
-
-The app runs at `http://localhost:3000`.
 
 ---
 
@@ -123,9 +120,3 @@ The app runs at `http://localhost:3000`.
 5. The highest probability digit is returned and displayed
 
 ---
-
-## Tips for Best Results
-
-- Write the digit **large** and **centered** on a plain white or light-colored background
-- Use a **dark pen** with clear contrast
-- Avoid extra marks or shadows around the digit
