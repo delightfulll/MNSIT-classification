@@ -4,11 +4,9 @@ A full-stack deep learning application that classifies handwritten digits (0–9
 
 ---
 
-## Demo
+## View Demo
 
-1. Write a digit (0–9) on paper and take a photo
-2. Upload the image on the web app
-3. The neural network returns its prediction instantly
+https://github.com/user-attachments/assets/a20c4b26-746e-466e-ae51-447b8bfe895b
 
 ---
 
